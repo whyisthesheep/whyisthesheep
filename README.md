@@ -6,4 +6,6 @@
 <br>Libraries/framworks: [Slint](https://slint.dev/), [Serenity](https://github.com/serenity-rs/serenity), [Tokio](https://tokio.rs/), [Clap](https://github.com/clap-rs/clap), [Pycord](https://pycord.dev/)
 
 ### Learning
-[TypeScript](https://www.typescriptlang.org/)
+[TypeScript](https://www.typescriptlang.org/), [Dioxus](https://dioxuslabs.com/), [Rocket](https://rocket.rs/), [Git](https://git-scm.com/)
+
+![Rust ferris](https://rustacean.net/assets/rustacean-flat-happy.png)
